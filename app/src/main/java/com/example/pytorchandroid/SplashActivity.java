@@ -15,7 +15,11 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SplashActivity extends AppCompatActivity {
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     private static int SPLASH_SCREEN_TIMEOUT = 2000;
+=======
+    private static int SPLASH_SCREEN_TIMEOUT = 3000;
+>>>>>>> Stashed changes
 =======
     private static int SPLASH_SCREEN_TIMEOUT = 3000;
 >>>>>>> Stashed changes

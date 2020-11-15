@@ -5,9 +5,12 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import android.widget.ImageView;
 import android.widget.TextView;
 =======
+=======
+>>>>>>> Stashed changes
 import androidx.core.content.FileProvider;
 
 import android.os.Environment;
@@ -50,6 +53,10 @@ public class Result extends AppCompatActivity {
         //Bitmap bmp = BitmapFactory.decodeByteArray(byteArray, 0, byteArray.length);
 >>>>>>> Stashed changes
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 
 
         ImageView imageView = findViewById(R.id.image);

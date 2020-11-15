@@ -46,6 +46,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules/app/PytorchAndroid.app.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" afterDir="false" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
@@ -61,12 +64,39 @@
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/Result.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_result.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_result.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_71_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_71.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_71_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_71.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/PytorchAndroid.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/PytorchAndroid.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/pytorchandroid/SplashActivity.java" afterDir="false" />
+>>>>>>> Stashed changes
 =======
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
@@ -116,8 +146,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <option value="resourceFile" />
         <option value="layoutResourceFile" />
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         <option value="layoutResourceFile_vertical" />
@@ -127,6 +160,9 @@
 =======
         <option value="layoutResourceFile" />
         <option value="resourceFile" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       </list>
     </option>
@@ -180,7 +216,12 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <recent name="C:\Users\Marco\Desktop\Github\CIS-4290\app\src\main\res\drawable-v24" />
+=======
+      <recent name="C:\Users\Luke Knight\Desktop\Classes\CIS 4260 TT 230\Github repos\CIS-4290\app\src\main\xml" />
+      <recent name="C:\Users\Luke Knight\Desktop\Classes\CIS 4260 TT 230\Github repos\CIS-4290\app\src\main" />
+>>>>>>> Stashed changes
 =======
       <recent name="C:\Users\Luke Knight\Desktop\Classes\CIS 4260 TT 230\Github repos\CIS-4290\app\src\main\xml" />
       <recent name="C:\Users\Luke Knight\Desktop\Classes\CIS 4260 TT 230\Github repos\CIS-4290\app\src\main" />
@@ -197,8 +238,13 @@
       </method>
     </configuration>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
+=======
+    <configuration name="BoeingApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="PytorchAndroid.app" />
+>>>>>>> Stashed changes
 =======
     <configuration name="BoeingApp" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="PytorchAndroid.app" />
@@ -348,8 +394,13 @@
     </state>
     <state x="458" y="188" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.822@0.23.1440.822" timestamp="1602803586603" />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <state x="428" y="271" key="AndroidCreateResourceFileDialog" timestamp="1602529218643">
       <screen x="0" y="23" width="1680" height="972" />
+=======
+    <state x="652" y="360" key="AndroidCreateResourceFileDialog" timestamp="1605461338077">
+      <screen x="0" y="0" width="2560" height="1410" />
+>>>>>>> Stashed changes
 =======
     <state x="652" y="360" key="AndroidCreateResourceFileDialog" timestamp="1605461338077">
       <screen x="0" y="0" width="2560" height="1410" />
@@ -428,6 +479,9 @@
     <state width="2517" height="495" key="GridCell.Tab.0.right/2560.-174.1920.1050/-1080.-174.1080.1890/0.0.2560.1410@0.0.2560.1410" timestamp="1605461184111" />
     <state width="2517" height="495" key="GridCell.Tab.1.bottom" timestamp="1605461184112">
       <screen x="0" y="0" width="2560" height="1410" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </state>
     <state width="1638" height="220" key="GridCell.Tab.1.bottom/-1920.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1602742451077" />
@@ -440,6 +494,9 @@
     <state width="2517" height="495" key="GridCell.Tab.1.bottom/2560.-174.1920.1050/-1080.-174.1080.1890/0.0.2560.1410@0.0.2560.1410" timestamp="1605461184112" />
     <state width="2517" height="495" key="GridCell.Tab.1.center" timestamp="1605461184112">
       <screen x="0" y="0" width="2560" height="1410" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </state>
     <state width="1638" height="220" key="GridCell.Tab.1.center/-1920.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1602742451076" />
@@ -452,6 +509,9 @@
     <state width="2517" height="495" key="GridCell.Tab.1.center/2560.-174.1920.1050/-1080.-174.1080.1890/0.0.2560.1410@0.0.2560.1410" timestamp="1605461184112" />
     <state width="2517" height="495" key="GridCell.Tab.1.left" timestamp="1605461184112">
       <screen x="0" y="0" width="2560" height="1410" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </state>
     <state width="1638" height="220" key="GridCell.Tab.1.left/-1920.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1602742451075" />
@@ -464,6 +524,9 @@
     <state width="2517" height="495" key="GridCell.Tab.1.left/2560.-174.1920.1050/-1080.-174.1080.1890/0.0.2560.1410@0.0.2560.1410" timestamp="1605461184112" />
     <state width="2517" height="495" key="GridCell.Tab.1.right" timestamp="1605461184112">
       <screen x="0" y="0" width="2560" height="1410" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </state>
     <state width="1638" height="220" key="GridCell.Tab.1.right/-1920.23.1920.1057/0.23.1680.972@0.23.1680.972" timestamp="1602742451076" />
@@ -472,6 +535,9 @@
 =======
     <state width="1306" height="63" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1604705799265" />
     <state width="2517" height="495" key="GridCell.Tab.1.right/2560.-174.1920.1050/-1080.-174.1080.1890/0.0.2560.1410@0.0.2560.1410" timestamp="1605461184112" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <state x="427" y="259" key="IDE.errors.dialog" timestamp="1602540720253">
       <screen x="0" y="23" width="1680" height="972" />
